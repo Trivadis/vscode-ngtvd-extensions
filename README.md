@@ -18,7 +18,7 @@ Useful VS Code extensions for any Angular developer.
 
 ## Included Extensions
 
-[Angular v4 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+[Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
@@ -31,3 +31,8 @@ Useful VS Code extensions for any Angular developer.
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme)
+
+
+## Authors
+Thomas Gassmann
+[Angular@Trivadis](https://m.trivadis.com/angular)
