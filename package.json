@@ -2,11 +2,11 @@
     "name": "ngtvd-extensions",
     "displayName": "Angular@Trivadis VS Code Essentials",
     "description": "Extensions for Angular developers @ Trivadis",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "trivadis",
-    "icon": "images/TrivadisAngular_logo-01.jpg",
+    "icon": "images/logo.png",
     "galleryBanner": {
-        "color": "#0273D4",
+        "color": "#0274d5",
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE.md",
@@ -19,8 +19,7 @@
         "Angular",
         "Angular 2",
         "Angular 4",
-        "Angular 5",
-        "HTML"
+        "Angular 5"
     ],
     "engines": {
 		"vscode": "0.10.x"
