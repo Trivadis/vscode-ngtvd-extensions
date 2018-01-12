@@ -1,5 +1,8 @@
+
 # Extensions for Angular developers @ Trivadis
 Useful VS Code extensions for any Angular developer.
+
+<img src="https://github.com/TrivadisCloud/vscode-ngtvd-extensions/blob/master/images/TrivadisAngular_logo-01.jpg?raw=true" style="height: 150px" />
 
 ## File settings
 
@@ -13,7 +16,9 @@ Useful VS Code extensions for any Angular developer.
     },
     "files.defaultLanguage": "typescript",
 	"files.hotExit": "off",
-	"workbench.iconTheme": "vscode-icon-theme",
+    "workbench.iconTheme": "vscode-icon-theme",
+    "files.trimTrailingWhitespace": true,
+    "prettier.singleQuote": true,
 ```
 
 ## Included Extensions
@@ -27,11 +32,12 @@ Useful VS Code extensions for any Angular developer.
 [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
 [Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-       
+
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
 [Studio Icons](https://marketplace.visualstudio.com/items?itemName=jtlowe.vscode-icon-theme)
 
+[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Authors
 Thomas Gassmann
