@@ -19,6 +19,8 @@ Useful VS Code extensions for any Angular developer.
     "workbench.iconTheme": "vscode-icon-theme",
     "files.trimTrailingWhitespace": true,
     "prettier.singleQuote": true,
+    "prettier.printWidth": 100,
+    "editor.formatOnSave": true,
 ```
 
 ## Included Extensions

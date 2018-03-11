@@ -1,40 +1,32 @@
 {
-    "name": "ngtvd-extensions",
-    "displayName": "Angular@Trivadis VS Code Essentials",
-    "description": "Extensions for Angular developers @ Trivadis",
-    "version": "0.0.3",
-    "publisher": "trivadis",
-    "icon": "images/logo.png",
-    "galleryBanner": {
-        "color": "#0274d5",
-        "theme": "dark"
-    },
-    "license": "SEE LICENSE IN LICENSE.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/TrivadisCloud/vscode-ngtvd-extensions"
-    },
-    "keywords": [
-        "TypeScript",
-        "Angular",
-        "Angular 2",
-        "Angular 4",
-        "Angular 5"
-    ],
-    "engines": {
-		"vscode": "0.10.x"
-	},
-    "categories": [        
-        "Extension Packs"
-    ],
-    "extensionDependencies": [
-        "johnpapa.Angular2",
-        "Angular.ng-template",       
-        "eg2.tslint",
-        "msjsdiag.debugger-for-chrome",
-        "christian-kohler.path-intellisense",
-        "natewallace.angular2-inline",
-        "jtlowe.vscode-icon-theme",
-        "esbenp.prettier-vscode"
-    ]
+  "name": "ngtvd-extensions",
+  "displayName": "Angular@Trivadis VS Code Essentials",
+  "description": "Extensions for Angular developers @ Trivadis",
+  "version": "0.0.4",
+  "publisher": "trivadis",
+  "icon": "images/logo.png",
+  "galleryBanner": {
+    "color": "#0274d5",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrivadisCloud/vscode-ngtvd-extensions"
+  },
+  "keywords": ["TypeScript", "Angular", "Angular 2", "Angular 4", "Angular 5"],
+  "engines": {
+    "vscode": "0.10.x"
+  },
+  "categories": ["Extension Packs"],
+  "extensionDependencies": [
+    "johnpapa.Angular2",
+    "Angular.ng-template",
+    "eg2.tslint",
+    "msjsdiag.debugger-for-chrome",
+    "christian-kohler.path-intellisense",
+    "natewallace.angular2-inline",
+    "jtlowe.vscode-icon-theme",
+    "esbenp.prettier-vscode"
+  ]
 }
