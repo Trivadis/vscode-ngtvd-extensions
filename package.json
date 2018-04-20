@@ -2,7 +2,7 @@
   "name": "ngtvd-extensions",
   "displayName": "Angular@Trivadis VS Code Essentials",
   "description": "Extensions for Angular developers @ Trivadis",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "trivadis",
   "icon": "images/logo.png",
   "galleryBanner": {
@@ -12,7 +12,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TrivadisCloud/vscode-ngtvd-extensions"
+    "url": "https://github.com/AngularAtTrivadis/vscode-ngtvd-extensions"
   },
   "keywords": ["TypeScript", "Angular", "Angular 2", "Angular 4", "Angular 5"],
   "engines": {
@@ -27,6 +27,7 @@
     "christian-kohler.path-intellisense",
     "natewallace.angular2-inline",
     "jtlowe.vscode-icon-theme",
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+    "CoenraadS.bracket-pair-colorizer"
   ]
 }

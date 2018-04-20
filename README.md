@@ -1,10 +1,12 @@
-
 # Extensions for Angular developers @ Trivadis
+
 Useful VS Code extensions for any Angular developer.
 
 <img src="https://github.com/TrivadisCloud/vscode-ngtvd-extensions/blob/master/images/TrivadisAngular_logo-01.jpg?raw=true" style="height: 150px" />
 
 ## File settings
+
+You can use the following settings in your VS Code (File -> Preferences -> Settings)
 
 ```json
     "files.exclude": {
@@ -41,6 +43,9 @@ Useful VS Code extensions for any Angular developer.
 
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 ## Authors
+
 Thomas Gassmann
 [Angular@Trivadis](https://m.trivadis.com/angular)
