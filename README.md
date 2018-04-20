@@ -4,6 +4,8 @@ Useful VS Code extensions for any Angular developer.
 
 <img src="https://github.com/TrivadisCloud/vscode-ngtvd-extensions/blob/master/images/TrivadisAngular_logo-01.jpg?raw=true" style="height: 150px" />
 
+[Your way to an Angular Hero](https://m.trivadis.com/angular-schulung)
+
 ## File settings
 
 You can use the following settings in your VS Code (File -> Preferences -> Settings)
