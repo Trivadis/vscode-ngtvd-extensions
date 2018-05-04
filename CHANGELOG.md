@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.6 (04/05/2018)
+
+* Changed README.md (files.exclude)
+
+<a name="0.0.5"></a>
+
 ## 0.0.5 (20/04/2018)
 
 * Added bracket colorizer [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
