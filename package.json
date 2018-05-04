@@ -2,7 +2,7 @@
   "name": "ngtvd-extensions",
   "displayName": "Angular@Trivadis VS Code Essentials",
   "description": "Extensions for Angular developers @ Trivadis",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "trivadis",
   "icon": "images/logo.png",
   "galleryBanner": {
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/AngularAtTrivadis/vscode-ngtvd-extensions"
   },
-  "keywords": ["TypeScript", "Angular", "Angular 2", "Angular 4", "Angular 5"],
+  "keywords": ["TypeScript", "Angular", "Angular 4", "Angular 5", "Angular 6"],
   "engines": {
     "vscode": "0.10.x"
   },
