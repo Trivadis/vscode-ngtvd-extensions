@@ -13,10 +13,13 @@ You can use the following settings in your VS Code (File -> Preferences -> Setti
 ```json
     "files.exclude": {
         "**/.git": true,
-		"**/.DS_Store": true,
-        "**/*.js.map": true,
-        "**/app/**/*.js": true,
-        "**/e2e/**/*.js": true
+        "**/.DS_Store": true,
+        "**/*.js": {
+            "when": "$(basename).ts"
+        },
+        "**/*.js.map": {
+            "when": "$(basename)"
+        }
     },
     "files.defaultLanguage": "typescript",
 	"files.hotExit": "off",
