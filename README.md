@@ -32,7 +32,7 @@ You can use the following settings in your VS Code (File -> Preferences -> Setti
 
 ## Included Extensions
 
-[Angular v5 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+[Angular v6 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
