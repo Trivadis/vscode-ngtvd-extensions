@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.7 (20/11/2018)
+
+- Changed README.md (Update Angular 7)
+
+<a name="0.0.6"></a>
+
 ## 0.0.6 (08/08/2018)
 
 - Changed README.md (files.exclude and update extensions)
