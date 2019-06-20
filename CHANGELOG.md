@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.8 (20/06/2019)
+
+- Remove deprecated tslint extension
+
+<a name="0.0.7"></a>
+
 ## 0.0.7 (20/11/2018)
 
 - Changed README.md (Update Angular 7)

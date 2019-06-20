@@ -2,7 +2,7 @@
   "name": "ngtvd-extensions",
   "displayName": "Angular@Trivadis VS Code Essentials",
   "description": "Extensions for Angular developers @ Trivadis",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "trivadis",
   "icon": "images/logo.png",
   "galleryBanner": {
@@ -17,9 +17,9 @@
   "keywords": [
     "TypeScript",
     "Angular",
-    "Angular 5",
     "Angular 6",
-    "Angular 7"
+    "Angular 7",
+    "Angular 8"
   ],
   "engines": {
     "vscode": "0.10.x"
@@ -30,7 +30,6 @@
   "extensionDependencies": [
     "johnpapa.Angular2",
     "Angular.ng-template",
-    "eg2.tslint",
     "msjsdiag.debugger-for-chrome",
     "christian-kohler.path-intellisense",
     "natewallace.angular2-inline",
