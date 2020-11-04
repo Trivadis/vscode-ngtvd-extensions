@@ -1,8 +1,14 @@
 # Changelog
 
+## 0.0.9 (04/11/2019)
+
+- Update to newest version
+
+<a name="0.0.8"></a>
+
 ## 0.0.8 (20/06/2019)
 
-- Remove deprecated tslint extension
+- Remove deprecated tslint and angular2-inline extension. Syntax highlight is now part of the Language Service Extension
 
 <a name="0.0.7"></a>
 

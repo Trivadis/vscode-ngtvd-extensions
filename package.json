@@ -2,7 +2,7 @@
   "name": "ngtvd-extensions",
   "displayName": "Angular@Trivadis VS Code Essentials",
   "description": "Extensions for Angular developers @ Trivadis",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "trivadis",
   "icon": "images/logo.png",
   "galleryBanner": {
@@ -17,9 +17,9 @@
   "keywords": [
     "TypeScript",
     "Angular",
-    "Angular 6",
-    "Angular 7",
-    "Angular 8"
+    "Angular 8",
+    "Angular 9",
+    "Angular 10"
   ],
   "engines": {
     "vscode": "0.10.x"
@@ -32,8 +32,6 @@
     "Angular.ng-template",
     "msjsdiag.debugger-for-chrome",
     "christian-kohler.path-intellisense",
-    "natewallace.angular2-inline",
-    "jtlowe.vscode-icon-theme",
     "esbenp.prettier-vscode",
     "CoenraadS.bracket-pair-colorizer"
   ]
