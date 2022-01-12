@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0 (01/12/2022)
+
+- Update to newest version
+- Remove deprecated extension
+- Add [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+<a name="0.0.9"></a>
+
 ## 0.0.9 (04/11/2019)
 
 - Update to newest version

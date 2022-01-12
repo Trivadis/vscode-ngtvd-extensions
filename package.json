@@ -2,7 +2,7 @@
   "name": "ngtvd-extensions",
   "displayName": "Angular@Trivadis VS Code Essentials",
   "description": "Extensions for Angular developers @ Trivadis",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "publisher": "trivadis",
   "icon": "images/logo.png",
   "galleryBanner": {
@@ -12,14 +12,14 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AngularAtTrivadis/vscode-ngtvd-extensions"
+    "url": "https://github.com/Trivadis/vscode-ngtvd-extensions"
   },
   "keywords": [
     "TypeScript",
     "Angular",
-    "Angular 8",
-    "Angular 9",
-    "Angular 10"
+    "Angular 10",
+    "Angular 11",
+    "Angular 12"
   ],
   "engines": {
     "vscode": "0.10.x"
@@ -30,9 +30,9 @@
   "extensionDependencies": [
     "johnpapa.Angular2",
     "Angular.ng-template",
-    "msjsdiag.debugger-for-chrome",
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
-    "CoenraadS.bracket-pair-colorizer"
+    "CoenraadS.bracket-pair-colorizer",
+    "Tyriar.sort-lines"
   ]
 }

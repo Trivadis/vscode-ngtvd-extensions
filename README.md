@@ -2,7 +2,7 @@
 
 Useful VS Code extensions for any Angular developer.
 
-<img src="https://github.com/TrivadisCloud/vscode-ngtvd-extensions/blob/master/images/TrivadisAngular_logo-01.jpg?raw=true" style="height: 150px" />
+<img src="https://github.com/Trivadis/vscode-ngtvd-extensions/blob/master/images/TrivadisAngular_logo-01.jpg?raw=true" style="height: 150px" />
 
 [Your way to an Angular Hero](https://www.trivadis-training.com/en/training/advanced-angular-schulung-ad-angular-adv)
 
@@ -21,8 +21,6 @@ You can use the following settings in your VS Code (File -> Preferences -> Setti
             "when": "$(basename)"
         }
     },
-    "files.defaultLanguage": "typescript",
-	"files.hotExit": "off",
     "files.trimTrailingWhitespace": true,
     "prettier.singleQuote": true,
     "prettier.printWidth": 100,
@@ -31,11 +29,11 @@ You can use the following settings in your VS Code (File -> Preferences -> Setti
 
 ## Included Extensions
 
-[Angular v9 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+[Angular v12 Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
-[Chrome Debugger](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+[Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 
@@ -46,4 +44,4 @@ You can use the following settings in your VS Code (File -> Preferences -> Setti
 ## Authors
 
 Thomas Gassmann
-[Angular@Trivadis](https://m.trivadis.com/angular)
+[Trivadis](https://trivadis.com)
